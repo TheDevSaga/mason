@@ -22,3 +22,8 @@ vars:
     description: Page name
     default: Demo
     prompt: What is the Page name?
+  hasRoute:
+    type: boolean
+    description: Has Route
+    default: true
+    prompt: Does this page has route?    
